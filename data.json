@@ -1,0 +1,136 @@
+{
+  "menu": [
+    { "icon": "🏠", "title": "Dashboard" },
+    { "icon": "👥", "title": "Community" },
+    { "icon": "💡", "title": "Inspirations" },
+    { "icon": "💬", "title": "Chat" },
+    { "icon": "⚙️", "title": "Settings" }
+  ],
+  "shortcuts": [
+    { "icon": "📷", "title": "Scan" },
+    { "icon": "✏️", "title": "Draw" },
+    { "icon": "➕", "title": "Add Shortcut" }
+  ],
+
+  "stats": [
+    { "label": "Total Members", "value": 120 },
+    { "label": "Pending Complaints", "value": 12 },
+    { "label": "Upcoming Events", "value": 6 }
+  ],
+
+  
+  "cards": [
+    {
+      "title": "Kitchen Renovation",
+      "description": "Complete modular kitchen setup for the client.",
+      "task": "Home Interior",
+      "date": "15.09.2020",
+      "image": "https://i.pravatar.cc/100?u=c3",
+      "users": [
+        "https://i.pravatar.cc/40?u=u11",
+        "https://i.pravatar.cc/40?u=u12"
+      ]
+    },
+    {
+      "title": "Society Parking Layout",
+      "description": "Designing a smart parking map with zones.",
+      "task": "Society Project",
+      "date": "02.11.2020",
+      "image": "https://i.pravatar.cc/100?u=d4",
+      "users": [
+        "https://i.pravatar.cc/40?u=u13",
+        "https://i.pravatar.cc/40?u=u14"
+      ]
+    },
+    {
+      "title": "New Club House Design",
+      "description": "Modern interior theme for society club house.",
+      "task": "Recreation Project",
+      "date": "23.08.2020",
+      "image": "https://i.pravatar.cc/100?u=e5",
+      "users": [
+        "https://i.pravatar.cc/40?u=u15",
+        "https://i.pravatar.cc/40?u=u16"
+      ]
+    },
+    {
+      "title": "CCTV Installation",
+      "description": "Camera installation and wiring across all floors.",
+      "task": "Security",
+      "date": "05.10.2020",
+      "image": "https://i.pravatar.cc/100?u=f6",
+      "users": [
+        "https://i.pravatar.cc/40?u=u17",
+        "https://i.pravatar.cc/40?u=u18"
+      ]
+    },
+    {
+      "title": "Garden Area Upgrade",
+      "description": "New plants, tiles, and lighting for the garden.",
+      "task": "Outdoor Work",
+      "date": "12.09.2020",
+      "image": "https://i.pravatar.cc/100?u=g7",
+      "users": [
+        "https://i.pravatar.cc/40?u=u19",
+        "https://i.pravatar.cc/40?u=u20"
+      ]
+    },
+    {
+      "title": "Electric Wiring Audit",
+      "description": "Inspection and repair of outdated wiring in B-Wing.",
+      "task": "Electrical Work",
+      "date": "28.10.2020",
+      "image": "https://i.pravatar.cc/100?u=h8",
+      "users": [
+        "https://i.pravatar.cc/40?u=u21",
+        "https://i.pravatar.cc/40?u=u22"
+      ]
+    },
+    {
+      "title": "Playground Flooring",
+      "description": "Rubber mats installation and safety checks.",
+      "task": "Kids Area",
+      "date": "10.11.2020",
+      "image": "https://i.pravatar.cc/100?u=i9",
+      "users": [
+        "https://i.pravatar.cc/40?u=u23",
+        "https://i.pravatar.cc/40?u=u24"
+      ]
+    },
+    {
+      "title": "Lift Maintenance",
+      "description": "Monthly service and safety compliance checks.",
+      "task": "Mechanical",
+      "date": "18.10.2020",
+      "image": "https://i.pravatar.cc/100?u=j10",
+      "users": [
+        "https://i.pravatar.cc/40?u=u25",
+        "https://i.pravatar.cc/40?u=u26"
+      ]
+    },
+    {
+      "title": "Water Tank Cleaning",
+      "description": "Deep cleaning + bacterial treatment for overhead tanks.",
+      "task": "Utility",
+      "date": "29.09.2020",
+      "image": "https://i.pravatar.cc/100?u=k11",
+      "users": [
+        "https://i.pravatar.cc/40?u=u27",
+        "https://i.pravatar.cc/40?u=u28"
+      ]
+    },
+    {
+      "title": "Society Website Revamp",
+      "description": "UI/UX improvement and new dashboard features.",
+      "task": "IT Project",
+      "date": "04.11.2020",
+      "image": "https://i.pravatar.cc/100?u=l12",
+      "users": [
+        "https://i.pravatar.cc/40?u=u29",
+        "https://i.pravatar.cc/40?u=u30"
+      ]
+    }
+  ]
+
+
+}

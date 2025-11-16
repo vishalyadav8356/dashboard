@@ -1,0 +1,40 @@
+<div class="bg-[#FFFFFF]">
+  <div class="p-4 border-b font-bold text-xl flex items-center gap-3 mt-10">
+   Society<span class="text-sm opacity-70">workflow</span>
+  </div>
+
+  <ul class="menu p-4 text-base">
+    {{#each menu}}
+    <li>
+      <a class="hover:bg-base-300 flex items-center gap-3 hover:bg-blue-100 rounded">
+        <span>{{icon}}</span> {{title}}
+      </a>
+    </li>
+    {{/each}}
+  </ul>
+
+  <p class="px-4 pt-4 text-xs opacity-50">SHORTCUTS</p>
+
+  <ul class="menu p-4">
+    {{#each shortcuts}}
+    <li>
+      <a class="hover:bg-base-300 flex items-center gap-3 hover:bg-blue-100 rounded ">
+        <span>{{icon}}</span> {{title}}
+      </a>
+    </li>
+    {{/each}}
+  </ul>
+
+<ul class="p-6 ">
+  {{#each stats}}
+  <li>
+    <div class="h-20 w-full p-3 rounded-lg bg-base-100 m-2 shadow hover:shadow-md transition-all hover:bg-blue-100 rounded">
+      <h2 class="text-lg font-semibold">{{value}}</h2>
+      <p class="text-sm opacity-70">{{label}}</p>
+    </div>
+  </li>
+  {{/each}}
+</ul>
+
+
+</div>

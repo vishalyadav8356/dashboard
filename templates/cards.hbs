@@ -1,0 +1,23 @@
+{{#each cards}}
+<div class="card bg-blue-100 shadow-lg hover:shadow-xl transition-all p-6 rounded-xl border border-base-300">
+  
+  <div class="flex justify-between items-center">
+    <div class="avatar">
+      <div class="w-10 rounded-full overflow-hidden">
+        <img src="{{image}}" />
+      </div>
+    </div>
+
+  </div>
+
+  <h3 class="text-xl font-bold mt-4">{{title}}</h3>
+  <p class="opacity-70 mt-1">{{description}}</p>
+
+  <div class="mt-4">
+    <p><strong>Task:</strong> {{task}}</p>
+    <p><strong>Date:</strong> {{date}}</p>
+  </div>
+
+
+</div>
+{{/each}}
